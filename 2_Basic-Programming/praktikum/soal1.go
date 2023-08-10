@@ -1,0 +1,5 @@
+package soal
+
+func main(){
+	
+}
